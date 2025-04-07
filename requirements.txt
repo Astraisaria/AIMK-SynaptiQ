@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pypdf
